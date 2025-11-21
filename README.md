@@ -1,4 +1,11 @@
 # OpenCV-DocReader
+Main hub repo for the DocReader platform.
+
+Contains links to:
+- DocReader-Training
+- DocReader-Python-Service
+- DocReader-CPP-Inference
+- DocReader-WebUI
 
 A simple document-scanning system that uses Machine Learning and Computer Vision to read documents, extract text, and pull important fields.  
 The project will be trained and prototyped in **Python**, then deployed in **C++** for high performance.  

@@ -1,0 +1,12 @@
+[submodule "services/DocReader-Training"]
+	path = services/DocReader-Training
+	url = https://github.com/HusainCode/DocReader-Training
+[submodule "services/DocReader-Python-Service"]
+	path = services/DocReader-Python-Service
+	url = https://github.com/HusainCode/DocReader-Python-Service
+[submodule "services/DocReader-CPP-Inference"]
+	path = services/DocReader-CPP-Inference
+	url = https://github.com/HusainCode/DocReader-CPP-Inference
+[submodule "services/DocReader-WebUI"]
+	path = services/DocReader-WebUI
+	url = https://github.com/HusainCode/DocReader-WebUI
